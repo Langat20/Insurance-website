@@ -153,48 +153,55 @@ button{
     margin-top: 60px;
 }
 .sec1{
-    height: 800px;
     background-color: beige;
-    display: flex;
-    text-align: center;
-
+    height: 900px;
 }
 .ind{
-     display: flex;
     text-align: center;
-    margin-left: 30%;
-    padding: 50px;
-    padding-top: 80px;
+    padding: 5%;
 }
 .members{
     display: flex;
-    text-align: center;
-    margin-left: 10%;
-    padding: 20px;
+    justify-content: center;
+    padding-top: 5%;
+
 }
 .mem{
-    width: 30%;
-    padding: 20px;
-    height: 200px;
-    margin-right: 3%;
-    box-sizing: border-box; 
-    margin-top: 100px; 
+    width: 300px;
+    padding: 50px;
+    height: 400px;
+    border: 3px solid rgb(224, 219, 219);
+    background-color: #fff;
+    padding-top:3% ;
+    padding-left: 3%;
+    padding-bottom:3% ;
+    padding-right: 3%;
+    border-radius: 9px;
 } 
 
-.mem2{
-    width: 30%;
+.mem1{
+    width: 300px;
     padding: 20px;
-    height: 200px;
-    margin-right: 3%;
-    box-sizing: border-box; 
-    margin-top: 100px; 
+    height: 400px;
+    border: 3px solid rgb(224, 219, 219);
+    background-color: #fff;
+    padding-top:3% ;
+    padding-left: 3%;
+    padding-bottom:3% ;
+    padding-right: 3%;
+    border-radius: 9px;
 }
-.mem3{
-    width: 30%;
+.mem2{
+    width: 300px;
     padding: 20px;
-    height: 200px;
-    box-sizing: border-box; 
-    margin-top: 100px; 
+    height: 400px;
+    border: 3px solid rgb(224, 219, 219);
+    background-color: #fff;
+    padding-top:3% ;
+    padding-left: 3%;
+    padding-bottom:3% ;
+    padding-right: 3%;
+    border-radius: 9px;
 }
 .img{
     height: 150px;
