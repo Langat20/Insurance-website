@@ -1,0 +1,77 @@
+body {
+    display: flex;
+    flex-direction: column;
+    font-family: Poppins, Verdana, Geneva, Tahoma, sans-serif;
+}
+.wrapper{
+    height: 900px;
+}
+.section1{
+    background-image: url(images/hero-cover.3.png);
+    height: 700px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.burner{
+    display: flex;
+    margin-left: 2%;
+
+
+}
+ul{
+list-style-type: none;
+font-size: 20px;
+}
+li{
+    display: inline-block;
+    padding: 20px 10px;
+    
+
+
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+
+}
+.login{
+    display: flex;
+    padding: 10px ;
+    margin-left: 35%;
+    align-items: center;
+}
+.login >p{
+    font-size: 20px;
+    padding: 10px ;
+    
+}
+button{
+    color: #fff;
+    background-color: rgb(41, 133, 238);
+    width: 150px;
+    height: 50px;
+    ;
+}
+.brand{
+    padding-right: 30px;
+    font-size: 20px;
+    font-weight: 500px;
+}
+.cen{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.cen >h1{
+    color: #fff;
+    font-size: 40px;
+    line-height: 60px;
+} 
+.cen >p{
+    color: #fff;
+    font-size: 20px;
+}
+.butt{
+    padding: 50px;
+}
