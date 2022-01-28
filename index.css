@@ -119,9 +119,83 @@ button{
 }
 .sec{
     height: 400px;
-    background-color: hsla(180, 8%, 95%, 0.753);
+    text-align: center;
+    display: flex;
+    padding: 50px;
+    background-color:#fff
 }
 .ic{
     color: blue;
-    
+}
+.peace{
+    float: left;
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+    margin-right: 3%;
+    box-sizing: border-box; 
+    margin-top: 60px; 
+}
+.peace2{
+    float: left;
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+    margin-right: 3%;
+    margin-top: 60px;
+}
+.peace3{
+    float: left;
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+    margin-right: 3%;
+    margin-top: 60px;
+}
+.sec1{
+    height: 800px;
+    background-color: beige;
+    display: flex;
+    text-align: center;
+
+}
+.ind{
+     display: flex;
+    text-align: center;
+    margin-left: 30%;
+    padding: 50px;
+    padding-top: 80px;
+}
+.members{
+    display: flex;
+    text-align: center;
+    margin-left: 10%;
+    padding: 20px;
+}
+.mem{
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+    margin-right: 3%;
+    box-sizing: border-box; 
+    margin-top: 100px; 
+} 
+}
+.mem2{
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+    margin-right: 3%;
+    box-sizing: border-box; 
+    margin-top: 100px; 
+}
+.mem3{
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+    box-sizing: border-box; 
+    margin-top: 100px; 
+}
+.img{
+    height: 150px;
 }
