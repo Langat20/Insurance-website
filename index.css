@@ -212,12 +212,72 @@ button{
     margin-top: 100px;
 }
 .pics{
-    word-spacing: 25px;
+    display: flex;
+    justify-content: center;
+}
+.photo img{
+    padding: 20px;
+}
+.box{
+    width: 800px;
+    background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 60%);
+    display: flex;
+    margin-left: 15%;
+    height: 85px;
+   
+
+    
+}
+.subscribe{
+    padding: 20px;
+    
+    color: white;
+
+
+}
+.subscribe >p{
+    font-size: 25x;
+    left: 20%;
+    padding-top: 5%;
+    
+
+}
+.email{
+    padding: 20px;
+    margin-left:25%;
+    padding-bottom: 20px;
+  
+}
+input{
+    height: 40px;
+    width: 250px;
+    
+    
+    border-bottom-left-radius: 6px;
+    border-top-left-radius: 6px;
+}
+.sub{
+    background-color:#23A6F0 ;
+    color: white;
+    height: 43px;
+    border-bottom-right-radius: 6px;
+    border-top-right-radius: 6px;
+    width: 100px;
+    right: 1%;
+    
+}
+::placeholder{
+    padding-left: 5%;
+    
+}
+.pricing{
+    height: 900px;
+    
 }
 .bx1{
     width: 300px;
     padding: 50px;
-    height: 400px;
+    height: 600px;
     border: 3px solid rgb(224, 219, 219);
     background-color: #fff;
     padding-top:3% ;
@@ -225,23 +285,25 @@ button{
     padding-bottom:3% ;
     padding-right: 3%;
     border-radius: 9px;
+    margin-top: 70px;
 } 
 .bx2{
     width: 300px;
     padding: 50px;
-    height: 400px;
+    height: 650px;
     border: 3px solid rgb(224, 219, 219);
-    background-color: #fff;
+    background-color:#252B42;
     padding-top:3% ;
     padding-left: 3%;
     padding-bottom:3% ;
     padding-right: 3%;
     border-radius: 9px;
+    margin-top: 20px;
 } 
 .bx3{
     width: 300px;
     padding: 50px;
-    height: 400px;
+    height: 600px;
     border: 3px solid rgb(224, 219, 219);
     background-color: #fff;
     padding-top:3% ;
@@ -249,4 +311,8 @@ button{
     padding-bottom:3% ;
     padding-right: 3%;
     border-radius: 9px;
+    margin-top: 70px;
 } 
+.boxes{
+    display: flex;
+}
