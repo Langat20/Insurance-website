@@ -5,6 +5,7 @@ body {
 }
 .wrapper{
     height: 900px;
+    background-color: rgb(243, 234, 234);
 }
 .section1{
     background-image: url(images/hero-cover.3.png);
@@ -12,6 +13,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    
 }
 .burner{
     display: flex;
@@ -40,6 +42,7 @@ ul li a{
     padding: 10px ;
     margin-left: 35%;
     align-items: center;
+    color: #fff;
 }
 .login >p{
     font-size: 20px;
@@ -48,7 +51,7 @@ ul li a{
 }
 button{
     color: #fff;
-    background-color: rgb(41, 133, 238);
+    background-color: #23A6F0;
     width: 150px;
     height: 50px;
     ;
@@ -74,4 +77,51 @@ button{
 }
 .butt{
     padding: 50px;
+}
+.ctn{
+    background-color: transparent;
+}
+*{
+    box-sizing: border-box;
+}
+.column1{
+    float: left;
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+    background-color: #fff;
+    margin-right: 3%;
+    box-sizing: border-box;
+}
+.column2{
+    float: left;
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+    background-color: #fff;
+    margin-right: 3%;
+}
+.column3{
+    float: left;
+    width: 30%;
+    padding: 20px;
+    height: 200px;
+    background-color: #23A6F0;
+    color: #fff;
+
+}
+
+.row{
+    display: flex;
+    text-align: center;
+    margin-left: 10%;
+    padding: 50px;
+}
+.sec{
+    height: 400px;
+    background-color: hsla(180, 8%, 95%, 0.753);
+}
+.ic{
+    color: blue;
+    
 }
