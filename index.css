@@ -328,7 +328,7 @@ input{
 }
 .branch{
     height: 800px;
-    background-color: slategrey;
+    background-color: #ede9e8;
     
 }
 .first{
@@ -364,14 +364,13 @@ input{
 align-items: center;
 }
 .footer{
-    height: 200px;
-    display: flex
-}
-.company{
-    
+    height: 250px;
+    display: flex;
+    padding: 5%;
 }
 .bottom{
-    height: 80px;
+    height: 100px;
+    background-color: #ede9e8;
 }
 .ico{
     color: #23A6F0;
@@ -381,4 +380,11 @@ ul li{
 }
 ul{
     list-style-type: none;
+}
+.fb{
+    display: flex;
+    margin-left: 50%;
+}
+.end{
+padding-top: 20px;
 }
