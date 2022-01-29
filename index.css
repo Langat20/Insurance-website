@@ -271,46 +271,49 @@ input{
     
 }
 .pricing{
-    height: 1100px;
+    height: 750px;
 
 }
 .bx1{
-    width: 300px;
-    padding: 50px;
-    height: 600px;
+    width: 280px;
+    padding: 10px;
+    height: 500px;
     border: 3px solid rgb(224, 219, 219);
     background-color: #fff;
     border-radius: 9px;
     margin-top: 70px;
-    font-size: 15px;
+    font-size: 16px;
+
     
 } 
 .bx2{
-    width: 300px;
-    padding: 50px;
-    height: 650px;
+    width: 280px;
+    padding: 5px;
+    height: 550px;
     border: 3px solid rgb(224, 219, 219);
     background-color:#252B42;
     border-radius: 9px;
     margin-top: 20px;
-    font-size: 15px;
+    font-size: 16px;
+    color: white;
     
 } 
 .bx3{
-    width: 300px;
-    padding: 50px;
-    height: 600px;
+    width: 280px;
+    padding: 5px;
+    height: 500px;
     border: 3px solid rgb(224, 219, 219);
     background-color: #fff;
     border-radius: 9px;
     margin-top: 70px;
-    font-size: 15px;
+    font-size: 20px;
     
 } 
 .boxes{
     display: flex;
     margin-top: 50px;
     text-align: center;
+    margin-left: 15%;
 }
 .head{
     margin-top: 150px;
