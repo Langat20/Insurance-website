@@ -22,18 +22,18 @@ body {
 
 
 }
-ul{
+.nav ul{
 list-style-type: none;
 font-size: 20px;
 }
-li{
+.nav li{
     display: inline-block;
     padding: 20px 10px;
     
 
 
 }
-ul li a{
+.nav ul li a{
     text-decoration: none;
     color: #fff;
 
@@ -282,6 +282,8 @@ input{
     background-color: #fff;
     border-radius: 9px;
     margin-top: 70px;
+    font-size: 15px;
+    
 } 
 .bx2{
     width: 300px;
@@ -291,6 +293,8 @@ input{
     background-color:#252B42;
     border-radius: 9px;
     margin-top: 20px;
+    font-size: 15px;
+    
 } 
 .bx3{
     width: 300px;
@@ -298,9 +302,9 @@ input{
     height: 600px;
     border: 3px solid rgb(224, 219, 219);
     background-color: #fff;
-
     border-radius: 9px;
     margin-top: 70px;
+    font-size: 15px;
     
 } 
 .boxes{
@@ -349,11 +353,21 @@ input{
     background-color: white;
 }
 .footer{
-    height: 300px;
+    height: 200px;
+    display: flex
 }
 .company{
-    text-decoration: ;
+    
 }
 .bottom{
-    height: 25px;
+    height: 80px;
+}
+.ico{
+    color: #23A6F0;
+}
+ul li{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
 }
