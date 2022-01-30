@@ -1,4 +1,8 @@
-body {
+ @media only screen  {
+     max-width: 650px;
+ }
+ 
+ body {
     display: flex;
     font-style: Montserrat;
     flex-direction: column;
@@ -327,7 +331,7 @@ input{
     font-size: 20px;
 }
 .branch{
-    height: 800px;
+    height: 900px;
     background-color: #ede9e8;
     
 }
@@ -362,6 +366,19 @@ input{
 }
 .one{
 align-items: center;
+width: 250px;
+}
+.kati{
+    margin-top: 250px;
+    display: flex;
+}
+.kati button{
+    margin-left: 30%;
+    margin-top: 20px;
+}
+.kati >p{
+    margin-left: 15%;
+    margin-top: 20px;
 }
 .footer{
     height: 250px;
@@ -370,10 +387,15 @@ align-items: center;
 }
 .bottom{
     height: 100px;
+    display: flex;
     background-color: #ede9e8;
 }
-.ico{
+.fb .ico{
     color: #23A6F0;
+    margin-right: 60%;
+}
+.ico1{
+    margin-right: 60%;
 }
 ul li{
     text-decoration: none;
@@ -383,8 +405,11 @@ ul{
 }
 .fb{
     display: flex;
-    margin-left: 50%;
+    margin-left: 30%;
+    padding-top: 45px;
 }
 .end{
-padding-top: 20px;
+padding-top: 35px;
+padding-left:10%;
+
 }
