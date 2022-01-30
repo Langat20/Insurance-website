@@ -1,27 +1,25 @@
-By Kipkurui Evans
+# INSURANCE WEBSITE
 
-Description
-
+## By Kipkurui Evans
+## description
 This is an Insurance website aimed at making people aware of what they offer and how they operate. This website is made easy for individuals to browse over the website and get more information about the Insurance company.
 
-Setup/Installation Requirements
-You must be having visual studio installed so as to write your code with. git should be installed use the command below to install. sudo apt install git-all
-Google chrome 
+## SetUp/installation Requirement
+* Net
+* browser on your pc
+* clone the repository
+* open the repo with your code editor
+* open the project on live Server
+## Known Bugs
+There are no known bugs 
 
-Known Bugs
-
-No known bugs for now but its open for debugging
-
-Technologies Used
-
-HTML 
-CSS 
-GIT commands
-
-Support and contact details
-
-you can contact me through my email kikuruie7.lang@gmail.com
-
-License
-
-The project is under the [MIT] license.
+## Technology used
+1. HTML5
+2. CSS
+## Support and Contact Details
+Feel free to call me or email me with respective contacts detail:
+* +254728384999
+* kipkuruie7.lang@gmail.com
+### License
+* <a href="https://github.com/Langat20/IP-weektwo/blob/gh-pages/Licence">MIT license</a>
+Copyright (c) 2022 *{Kipkurui Evans}*
