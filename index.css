@@ -10,7 +10,7 @@
 }
 .wrapper{
     height: 900px;
-    background-color: rgb(243, 234, 234);
+    background-color: #f9faf7;
 }
 .section1{
     background-image: url(images/hero-cover.3.png);
@@ -161,7 +161,7 @@ button{
     margin-top: 60px;
 }
 .sec1{
-    background-color: beige;
+    background-color: #f9faf7;
     height: 1000px;
 }
 .ind{
@@ -335,7 +335,7 @@ input{
 }
 .branch{
     height: 900px;
-    background-color: #ede9e8;
+    background-color: #f9faf7;
     
 }
 .first{
@@ -391,7 +391,7 @@ width: 250px;
 .bottom{
     height: 100px;
     display: flex;
-    background-color: #ede9e8;
+    background-color: #f9faf7;
 }
 .fb .ico{
     color: #23A6F0;
