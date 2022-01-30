@@ -59,7 +59,7 @@ button{
     background-color: #23A6F0;
     width: 150px;
     height: 50px;
-    ;
+    border-radius: 10px;
 }
 .brand{
     padding-right: 30px;
@@ -133,7 +133,7 @@ button{
     background-color:#fff
 }
 .ic{
-    color: blue;
+    color: #ede9e8;
 }
 .peace{
     float: left;
@@ -348,7 +348,7 @@ input{
     margin-left: 2%;
 }
 .phot{
-    height: 200px;
+    height: 150px;
     margin-left: 45%;
     right: 0%;
     top: 25;
@@ -363,16 +363,25 @@ input{
     padding-bottom: 100px;
     position: absolute;
     margin-top: -150px;
+    
 }
 .picpoint{
     height: 300px;
+    background-color: #ffff;
+  
+
 }
 .book{
     background-color: white;
+    width: 300px;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 .one{
 align-items: center;
-width: 250px;
+width: 260px;
+border-radius: 5px;
 }
 .kati{
     margin-top: 250px;
@@ -381,6 +390,7 @@ width: 250px;
 .kati button{
     margin-left: 30%;
     margin-top: 20px;
+    border-radius: 5px;
 }
 .kati >p{
     margin-left: 15%;
