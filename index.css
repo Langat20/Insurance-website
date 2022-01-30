@@ -10,7 +10,7 @@
 }
 .wrapper{
     height: 900px;
-    background-color: #f9faf7;
+    background-color: #ede9e8;
 }
 .section1{
     background-image: url(images/hero-cover.3.png);
@@ -23,6 +23,8 @@
 .burner{
     display: flex;
     margin-left: 2%;
+
+
 }
 .nav ul{
 list-style-type: none;
@@ -31,10 +33,14 @@ font-size: 20px;
 .nav li{
     display: inline-block;
     padding: 20px 10px;
+    
+
+
 }
 .nav ul li a{
     text-decoration: none;
     color: #fff;
+
 }
 .login{
     display: flex;
@@ -45,7 +51,8 @@ font-size: 20px;
 }
 .login >p{
     font-size: 20px;
-    padding: 10px ; 
+    padding: 10px ;
+    
 }
 button{
     color: #fff;
@@ -61,7 +68,8 @@ button{
 }
 .cen{
     text-align: center;
-    padding-top: 20px; 
+    padding-top: 20px;
+    
 }
 .cen >h1{
     color: #fff;
@@ -108,6 +116,7 @@ button{
     height: 200px;
     background-color: #23A6F0;
     color: #fff;
+
 }
 
 .row{
@@ -152,7 +161,7 @@ button{
     margin-top: 60px;
 }
 .sec1{
-    background-color: red;
+    background-color: #ede9e8;
     height: 1000px;
 }
 .ind{
@@ -210,6 +219,7 @@ button{
     margin-top: -200px;
     position: absolute;
     margin-left: 35%;
+
 } 
 .lin{
     color: white;
@@ -227,16 +237,23 @@ button{
     display: flex;
     margin-left: 15%;
     height: 85px;
+   
+
+    
 }
 .subscribe{
     padding: 20px;
     
     color: white;
+
+
 }
 .subscribe >p{
     font-size: 25x;
     left: 20%;
     padding-top: 5%;
+    
+
 }
 .email{
     padding: 20px;
@@ -247,6 +264,8 @@ button{
 input{
     height: 40px;
     width: 250px;
+    
+    
     border-bottom-left-radius: 6px;
     border-top-left-radius: 6px;
 }
@@ -266,6 +285,7 @@ input{
 }
 .pricing{
     height: 750px;
+
 }
 .bx1{
     width: 280px;
@@ -276,6 +296,8 @@ input{
     border-radius: 9px;
     margin-top: 70px;
     font-size: 16px;
+
+    
 } 
 .bx2{
     width: 280px;
@@ -297,7 +319,8 @@ input{
     background-color: #fff;
     border-radius: 9px;
     margin-top: 70px;
-    font-size: 16px
+    font-size: 16px;
+    
 } 
 .boxes{
     display: flex;
@@ -312,7 +335,8 @@ input{
 }
 .branch{
     height: 900px;
-    background-color: #f9faf7;
+    background-color: #ede9e8;
+    
 }
 .first{
     margin-top: 50px;
@@ -367,7 +391,7 @@ width: 250px;
 .bottom{
     height: 100px;
     display: flex;
-    background-color: #f9faf7;
+    background-color: #ede9e8;
 }
 .fb .ico{
     color: #23A6F0;
