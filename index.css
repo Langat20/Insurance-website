@@ -284,8 +284,9 @@ input{
     
 }
 .pricing{
-    height: 750px;
+    height: 900px;
     background-color: #ede9e8;
+    margin-top: 0px;
 
 }
 .bx1{
@@ -337,6 +338,7 @@ input{
 .branch{
     height: 900px;
     background-color: #ede9e8;
+    margin-top: 0px;
     
 }
 .first{
